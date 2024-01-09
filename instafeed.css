@@ -1,0 +1,53 @@
+
+@font-face {
+    font-family: "JAJAJA";
+    src: url("../../public/fonts/JAJAJA.ttf"); }
+
+body{
+background-color: rgb(255, 255, 255);
+}
+
+#image-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Crée trois colonnes égales */
+    gap: 5px; /* Espacement entre les images */
+}
+
+#image-container img {
+    width: 100%; /* Remplit la largeur de la cellule de la grille */
+    height: auto; /* Garantit la proportion d'origine de l'image */
+}
+
+button{
+    background-color: #e84941;
+    width: 30%;
+    border: none;
+    height: 10vh;
+    font-size: 100%;
+    border-radius: 20px;
+    transition: all 0.3s ease;
+}
+
+button:hover{
+    background-color: #fff7c7;
+}
+
+button:hover a{
+   color: #e84941;
+   -webkit-text-stroke: 1px #fff7c7;
+
+}
+
+
+a{
+    text-decoration: none;
+    color: #fff7c7;
+    font-family: 'JAJAJA';
+    -webkit-text-stroke: 1px #e84941;
+
+}
+
+.button-container{
+    text-align: center;
+    margin-top: 10vh;
+}

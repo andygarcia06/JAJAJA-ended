@@ -1,0 +1,974 @@
+{
+  "recettes": [
+    {
+      "nomRecette": "Guacamole",
+      "typeRecette":"DIP",
+      "niveauPiquant":"peu",
+      "descriptionRecrette": "Le nom guacamole vient de deux mots aztèques, « ahuacatl », avocat et « molli », qui se traduit par mélange ou sauce. Voilà une recette ultrasimple, ultrabonne et évidemment, sans épices.",
+      "nombrePersonnes": 4,
+      "tempsPreparation": "10 min",
+      "ingredients": [
+        "4 avocats mûrs",
+        "½ oignon rouge",
+        "½ oignon jaune",
+        "1 tomate",
+        "½ botte de coriandre fraîche",
+        "1 piment jalapeño",
+        "Le jus de 1,5 citron vert",
+        "Sel et poivre"
+      ],
+      "etapesPreparation": [
+        "Coupez les avocats en deux, retirez le noyau et prélevez la chair. Écrasez-la à la fourchette dans un bol jusqu'à obtenir une consistance lisse.",
+        "Émincez finement les oignons et coupez la tomate en petits dés. Ciselez la coriandre fraîche et retirez les graines du piment jalapeño, puis hachez-le finement.",
+        "Ajoutez les oignons, la tomate, la coriandre et le piment jalapeño émincés à la purée d'avocat.",
+        "Pressez le jus de citron vert dans le bol et mélangez bien tous les ingrédients. Assaisonnez le guacamole avec du sel et du poivre. Goûtez et ajustez les assaisonnements si nécessaire.",
+        "Servez le guacamole frais avec des tortilla chips ou utilisez-le en accompagnement de vos tacos."
+      ]
+    },
+    {
+      "nomRecette": "Jalapeno Poppers",
+      "typeRecette":"SNACK",
+      "niveauPiquant":"moyen",
+      "nombrePersonnes": 4,
+      "tempsPreparation": "25 min",
+      "ingredients": [
+        "12 gros jalapeños",
+        "225 g de fromage à la crème",
+        "60 g de cheddar râpé",
+        "1 gousse d'ail",
+        "140 g de tortillas de maïs séchées, réduites en poudre fine",
+        "120 g de farine tout usage",
+        "11 g de levure chimique",
+        "240 ml d'eau gazeuse glacée",
+        "Huile de friture",
+        "Sel"
+      ],
+      "etapesPreparation": [
+        "Préchauffez le four à 200 °C.",
+        "Lavez les jalapeños et coupez les tiges. Coupez-les en deux dans le sens de la longueur et retirez les graines et les membranes.",
+        "Dans un bol, mélangez le fromage à la crème, le cheddar, l'ail et le sel. Remplissez chaque moitié de jalapeño de la préparation au fromage, puis placez-les sur une plaque de cuisson recouverte de papier sulfurisé.",
+        "Enfournez les jalapeños pendant 15 à 20 minutes jusqu'à ce qu'ils soient dorés et que le fromage soit fondu.",
+        "Pendant que les jalapeños cuisent, préparez la tempura. Réduisez les tortillas de maïs séchées au préalable en poudre fine dans un mixeur. Dans un bol, mélangez la poudre de tortilla, la farine, la levure chimique et l'eau gazeuse glacée jusqu'à obtenir une pâte lisse et épaisse.",
+        "Dans une casserole profonde, faites chauffer suffisamment d'huile pour couvrir les jalapeños. Trempez chaque moitié de jalapeño dans la pâte à tempura, enrobez bien et plongez-les dans l'huile chaude.",
+        "Faites frire les jalapeños pendant 2 à 3 minutes jusqu'à ce que la tempura soit dorée et croustillante. Égouttez les jalapeños sur du papier absorbant pour éliminer l'excès d'huile. Servez chaud."
+      ]
+    },
+    {
+      "nomRecette": "ROJOS",
+      "typeRecette":"CHILAQUILES",
+      "niveauPiquant":"peu",
+      "nombrePersonnes": 4,
+      "tempsPreparation": "15 min",
+      "ingredients": [
+        "125 ml de salsa roja",
+        "12 tortillas de maïs jaune coupées en triangles ou en quartiers",
+        "120 g de fromage râpé",
+        "Huile de cuisson",
+        "½ botte de coriandre fraîche",
+        "20 g dʼoignon rouge",
+        "40 g de crème fraîche"
+      ],
+      "etapesPreparation": [
+        "Versez la salsa dans une poêle à feu moyen et laissez mijoter pendant environ 5 minutes.",
+        "Dans une autre poêle, faites chauffer un peu d'huile à feu moyen. Ajoutez les tortillas en morceaux et faites-les frire jusqu'à ce qu'elles soient croustillantes. Égouttez-les sur du papier absorbant pour enlever l'excès d'huile.",
+        "Ajoutez les tortillas frites dans la poêle avec la salsa et mélangez bien pour quʼelles soient bien enrobées de salsa.",
+        "Ajoutez le fromage râpé sur les tortillas et couvrez la poêle pour faire fondre le fromage pendant environ 2 à 3 minutes.",
+        "Garnissez les chilaquiles de coriandre fraîche, dʼoignon rouge haché et de 1 cuillerée à soupe de crème fraîche."
+      ]
+    },
+    {
+      "nomRecette": "PAPAS A LA DIABLA",
+      "typeRecette":"SIDE",
+      "niveauPiquant":"moyen",
+      "nombrePersonnes": 4,
+      "tempsPreparation": "1 h 30",
+      "ingredients": [
+        "4 grosses pommes de terre",
+        "15 g de beurre doux",
+        "15 g dʼhuile dʼolive",
+        "15 chiles de árbol",
+        "4 gousses dʼail",
+        "Le jus de 2 citrons verts",
+        "½ botte de coriandre fraîche",
+        "Sel"
+      ],
+      "etapesPreparation": [
+        "Enveloppez chaque pomme de terre dans le papier dʼaluminium et posez-les sur les braises ou la grille dʼun barbecue (ou dans un four à 200 °C).",
+        "Retirez la queue des chiles de árbol et mettez-les dans un blender avec lʼail, le sel, lʼhuile dʼolive et le jus de citron vert. Mixez.",
+        "Dans une poêle, faites fondre le beurre et versez la sauce. Faites réduire doucement.",
+        "Sortez les pommes de terre du feu, retirez le papier dʼaluminium, tranchez-les en morceaux grossiers et faites-les revenir dans la sauce.",
+        "En sortie de cuisson, ajoutez de la coriandre fraîche."
+      ]
+    },
+    {
+      "nomRecette": "ELOTE",
+      "typeRecette":"SNACK",
+      "niveauPiquant":"fort",
+      "nombrePersonnes": 4,
+      "tempsPreparation": "20 min",
+      "ingredients": [
+        "4 épis de maïs",
+        "120 g de crème fraîche",
+        "120 g de feta émiettée",
+        "5 g dʼépice tajin",
+        "Le jus de 1 citron vert",
+        "1 botte de coriandre fraîche",
+        "Sel et poivre",
+        "120 g de mayo chipotle"
+      ],
+      "etapesPreparation": [
+        "Faites cuire les épis de maïs dans une casserole dʼeau bouillante pendant environ 10 minutes jusquʼà ce quʼils soient tendres. Égouttez-les et laissez-les refroidir légèrement.",
+        "Dans un bol, mélangez la mayonnaise, la crème fraîche, le jus de citron vert, le sel et le poivre. Réservez cette préparation, qui servira de sauce pour lʼelote.",
+        "Insérez un bâton en bois dans chaque épi de maïs pour faciliter la manipulation.",
+        "Placez les épis de maïs sur un gril préchauffé ou sur une plaque de cuisson (le must serait BBQ) et faites-les griller pendant environ 5 minutes de chaque côté jusquʼà ce quʼils soient légèrement dorés.",
+        "Retirez les épis de maïs du gril ou du four et laissez-les refroidir légèrement.",
+        "Badigeonnez généreusement chaque épi de maïs avec la sauce préparée à base de mayonnaise, de crème fraîche et dʼépices.",
+        "Saupoudrez les épis de maïs en faisant 3 bandes sur la longueur avec la feta, lʼépice tajin et enfin la coriandre fraîche hachée. Cʼest beau, cʼest le drapeau de Mexico."
+      ]
+    },
+    {
+      "nomRecette": "ESQUITES",
+      "typeRecette":"SNACK",
+      "niveauPiquant":"peu",
+      "nombrePersonnes": 4,
+      "tempsPreparation": "30 min",
+      "ingredients": [
+        "4 épis de maïs frais",
+        "2 poivrons/piments poblano",
+        "1 botte de coriandre fraîche",
+        "100 g de feta émiettée",
+        "2 citrons verts",
+        "250 ml de mayo chipotle (mayonnaise classique dans laquelle vous ajoutez un soupçon de chipotle haché)",
+        "2 cuillerées à soupe dʼhuile dʼolive",
+        "Sel et poivre"
+      ],
+      "etapesPreparation": [
+        "Préchauffez votre gril à feu moyen (au BBQ, cʼest encore mieux). Pendant ce temps, préparez les ingrédients.",
+        "Badigeonnez légèrement les épis de maïs avec de lʼhuile dʼolive, puis placez-les sur le gril chaud. Faites griller les épis de maïs pendant environ 10 à 12 minutes, en les retournant régulièrement, jusquʼà ce quʼils soient bien dorés et légèrement grillés.",
+        "Pendant ce temps, disposer les lanières de poivron poblano sur le gril chaud pendant environ 5 à 7 minutes jusquʼà ce quʼils soient tendres et légèrement noircis. Retirez-les du gril et laissez-les refroidir pendant quelques instants, puis retirez la peau brûlée. Coupez les lanières de poblano en petits morceaux.",
+        "Une fois que les épis de maïs sont grillés, retirez-les du gril et laissez-les refroidir. À lʼaide dʼun couteau, retirez les grains de maïs des épis.",
+        "Dans un grand bol, mélangez les grains de maïs grillés, les morceaux de poblano grillés, la coriandre fraîche ciselée et la feta émiettée. Ajoutez le jus des citrons verts, la mayo, lʼhuile dʼolive, le sel et le poivre. Mélangez bien tous les ingrédients pour les enrober de jus de citron vert et dʼassaisonnement.",
+        "Vous pouvez déguster à la cuillère ou avec des tortillas chips."
+      ]
+    },
+    {
+      "nomRecette": "PICO DE GALLO",
+      "typeRecette":"SNACK",
+      "niveauPiquant":"faible",
+      "nombrePersonnes": 4,
+      "tempsPreparation": "30 à 40 min + 30 min de repos",
+      "ingredients": [
+        "4 tomates mûres",
+        "1 oignon rouge moyen",
+        "½ piment jalapeño",
+        "Le jus de 2 citrons verts",
+        "½ botte de coriandre fraîche",
+        "Sel et poivre"
+      ],
+      "etapesPreparation": [
+        "Épépinez les tomates et coupez-les en petits dés. Hachez finement lʼoignon blanc et le piment jalapeño (nʼoubliez pas de retirer les graines si vous souhaitez réduire le piquant). Ciselez finement la coriandre fraîche.",
+        "Dans un bol moyen, ajoutez les dés de tomate, lʼoignon haché, le piment jalapeño et la coriandre ciselée. Mélangez.",
+        "Pressez le jus des citrons verts directement sur le mélange de légumes. Assaisonnez de sel et de poivre noir. Mélangez une nouvelle fois. Goûtez le pico de gallo et ajustez les assaisonnements selon vos préférences.",
+        "Laissez reposer le pico de gallo au réfrigérateur pendant au moins 30 minutes avant de le servir. Cela permettra aux saveurs de se mélanger et de se développer.",
+        "Servez le pico de gallo avec des tortillas chips, des tacos ou en accompagnement dʼautres recettes. Il se conserve généralement pendant un jour au réfrigérateur, mais il est préférable de le consommer le jour même pour profiter de sa fraîcheur."
+      ]
+    },
+    {
+      "nomRecette": "AL PASTOR",
+      "typeRecette":"TAQUITOS",
+      "niveauPiquant":"faible",
+      "nombrePersonnes": 4,
+      "tempsPreparation": "1 h + une nuit de marinade",
+      "ingredients": [
+        "Pour la marinade",
+        "500 g dʼéchine de porc, coupée en fines tranches",
+        "3 gousses dʼail",
+        "1 oignon moyen",
+        "3 cuillerées à soupe de jus dʼananas",
+        "2 cuillerées à soupe de vinaigre de cidre",
+        "2 cuillerées à soupe dʼhuile dʼolive",
+        "3 piments guajillo secs réhydratés",
+        "1 piment morita sec",
+        "1 cuillerée à café de cumin en poudre",
+        "1 cuillerée à café de paprika",
+        "1 cuillerée à café dʼorigan séché",
+        "½ cuillerée à café de cannelle en poudre",
+        "Sel et poivre noir moulu"
+      ],
+      "etapesPreparation": [
+        "Dans un mixeur ou un blender, placez lʼail et lʼoignon grossièrement émincés, le jus dʼananas, le vinaigre de cidre, lʼhuile dʼolive, le paprika, le cumin, les deux piments torréfiés et réhydratés 10 minutes dans de lʼeau chaude, lʼorigan, la cannelle, le sel et le poivre noir moulu. Mixez jusquʼà obtenir une marinade lisse et homogène.",
+        "Placez les tranches de viande de porc dans un grand plat ou un sac refermable. Versez la marinade sur la viande, en vous assurant de bien l'enrober. Couvrez le plat ou fermez le sac refermable et placez-le au réfrigérateur pendant au moins 2 heures, idéalement toute une nuit, pour permettre à la viande de mariner.",
+        "Option de cuisson à la broche : enfilez les tranches de viande marinée sur la broche en les superposant et en exerçant une pression. Au sommet, on met ½ ananas pelé quʼon tranchera au moment de servir pour chaque portion. Placez la broche sur le gril et faites cuire à feu fort, en tournant régulièrement pour une cuisson uniforme. La viande doit être bien dorée et légèrement caramélisée. Tranchez la viande en fines lamelles et réservez au chaud pour monter vos tacos.",
+        "Et vu que personne nʼa de broche à la casa, lʼoption cuisson à la poêle : chauffez une poêle à feu moyen élevé et grillez les tranches dʼananas puis réservez. Dans la même poêle et en ajoutant un fond dʼhuile dʼolive, faites sauter les tranches de viande marinée 10 à 15 minutes, en retournant régulièrement, jusquʼà ce quʼelles soient bien dorées et légèrement caramélisées. Retirez la viande de la poêle et laissez reposer quelques minutes avant de la trancher en fines lamelles.",
+        "Pendant ce temps, faites chauffer les tortillas dans une poêle jusquʼà ce quʼelles soient caliente et souples.",
+        "Pour monter les tacos al pastor, placez 2 cuillerées à soupe de viande (60-80 g) sur chaque tortilla chaude. Ajoutez des morceaux dʼananas grillé, des tranches dʼoignon rouge et de la coriandre hachée. Arrosez de salsa verde.",
+        "Servez les tacos al pastor avec des tranches de citron vert pour flirter avec la perfection dʼun plat sucré-salé, chaud-froid, croustillant et tendre à la fois."
+      ]
+    },
+    {
+      "nomRecette": "SUADERO",
+      "typeRecette":"TACOS",
+      "niveauPiquant":"fort",
+      "nombrePersonnes": "4 personnes",
+      "tempsPreparation": "1 h + une nuit de marinade",
+      "descriptionRecrette": "Recette de tacos au suadero.",
+      "ingredients": [
+        "500 g de viande de suadero (poitrine de boeuf), coupée en fines tranches",
+        "1 oignon moyen",
+        "2 gousses dʼail",
+        "1 cuillerée à café de paprika",
+        "1 cuillerée à café de cumin en poudre",
+        "1 cuillerée à café de coriandre en poudre",
+        "Le jus de 2 citrons verts",
+        "Sel et poivre",
+        "12 tortillas de maïs"
+      ],
+      "etapesPreparation": [
+        "Dans un bol, mélangez lʼoignon coupé en brunoise, lʼail émincé, le paprika, le cumin, la coriandre, le jus de citron vert, le sel et le poivre noir moulu. Mélangez bien pour obtenir une marinade homogène.",
+        "Placez les tranches de viande de suadero dans un plat ou un sac refermable. Versez la marinade sur la viande et répartissez-la de manière égale. Couvrez le plat ou fermez le sac refermable et laissez mariner au réfrigérateur pendant au moins 2 heures, idéalement toute une nuit.",
+        "Faites chauffer une poêle à feu moyen-vif. Ajoutez les tranches de viande marinée dans la poêle et faites-les cuire pendant environ 8 à 10 minutes, en retournant régulièrement, jusquʼà ce quʼelles soient bien dorées et tendres.",
+        "Pendant la cuisson de la viande, récupérez du jus de cuisson et badigeonnez vos tortillas avant de les chauffer dans une autre poêle jusquʼà ce quʼelles soient chaudes, à peine colorées et souples.",
+        "Une fois la viande cuite, retirez-la de la poêle et coupez-la en petits morceaux.",
+        "Pour monter les tacos de suadero, placez une portion de viande sur chaque tortilla chaude. Garnissez avec des tranches dʼoignon blanc et de la coriandre fraîche finement émincée. Ajoutez de la salsa et le jus d'un citron vert."
+      ]
+    },
+    {
+      "nomRecette": "gobernador",
+      "typeRecette":"TACOS",
+      "niveauPiquant":"peu",
+      "nombrePersonnes": "4 personnes",
+      "tempsPreparation": "45 min",
+      "descriptionRecrette": "Recette de tacos gobernador aux crevettes.",
+      "ingredients": [
+        "500 g de crevettes, décortiquées et déveinées",
+        "1 oignon",
+        "2 poivrons",
+        "2 tomates",
+        "4 cuillerées à soupe dʼhuile dʼolive",
+        "2 gousses dʼail",
+        "2 piments chipotle",
+        "Sel et poivre",
+        "8 tortillas de maïs"
+      ],
+      "etapesPreparation": [
+        "Dans une poêle, faites chauffer lʼhuile dʼolive à feu moyen. Ajoutez lʼoignon et les poivrons finement émincés, et faites-les sauter pendant 3 à 4 minutes jusquʼà ce quʼils soient légèrement ramollis.",
+        "Ajoutez les crevettes dans la poêle et faites-les cuire pendant environ 3 minutes de chaque côté jusquʼà ce quʼelles soient roses et bien cuites. Retirez-les de la poêle et réservez.",
+        "Dans la même poêle, ajoutez lʼail émincé et le piment chipotle en poudre (si vous souhaitez plus de piquant). Faites revenir les épices pendant 1 à 2 minutes jusquʼà ce quʼelles dégagent leur parfum.",
+        "Remettez les crevettes dans la poêle, ajoutez les dés de tomate et mélangez bien pour enrober les crevettes dʼépices. Laissez cuire pendant encore 2 minutes pour que les saveurs se mélangent.",
+        "Assaisonnez avec du sel et du poivre noir moulu selon votre goût.",
+        "Réchauffez les tortillas de maïs dans une autre poêle ou au micro-ondes.",
+        "Pour servir, placez quelques crevettes et légumes dans chaque tortilla. Garnissez avec des tranches dʼavocat, de la coriandre fraîche et un filet de jus de citron vert.",
+        "Ce plat peut aussi se faire sur une base de tortilla avec fromage fondu."
+      ]
+    },
+    {
+      "nomRecette": "de LONGANIZA",
+      "typeRecette":"TACOS",
+      "niveauPiquant":"peu",
+      "nombrePersonnes": "4 personnes",
+      "tempsPreparation": "45 min",
+      "descriptionRecrette": "Recette de tacos de longaniza (ou chorizo frais).",
+      "ingredients": [
+        "8 tortillas de maïs",
+        "500 g de longaniza (saucisse mexicaine à base de porc, achiote, cumin, cannelle et piment de la Vera) coupée en tranches, si introuvable optez pour du chorizo frais",
+        "1 oignon moyen",
+        "2 gousses dʼail",
+        "1 piment jalapeño",
+        "Le jus de 2 citrons verts",
+        "Sel et poivre"
+      ],
+      "etapesPreparation": [
+        "Dans une poêle chaude, faites cuire la longaniza en morceaux à feu moyen-vif. Faites bien dorer chaque face.",
+        "Ajoutez lʼoignon finement tranché et lʼail émincé dans la poêle avec la longaniza et faites revenir le tout pendant quelques minutes jusquʼà ce que lʼoignon soit doré et caramélisé.",
+        "Ajoutez le jalapeño épépiné et finement haché dans la poêle et faites cuire quelques minutes supplémentaires.",
+        "Arrosez avec le jus de citron vert frais. Assaisonnez avec du sel et du poivre et laissez mijoter 5 minutes.",
+        "Pendant ce temps, faites chauffer les tortillas de maïs dans une autre poêle jusquʼà ce quʼelles soient à peine colorées de chaque côté.",
+        "Pour monter les tacos de longaniza, ce sera dans lʼordre : longaniza puis coriandre hachée, salsa et un petit filet de jus de citron vert."
+      ]
+    },
+    {
+      "nomRecette": "AGUACATE Y PICO DE GALLO",
+      "typeRecette":"QUESADILLAS ",
+      "niveauPiquant":"peu",
+      "nombrePersonnes": "4 personnes",
+      "tempsPreparation": "40 min",
+      "descriptionRecrette": "Recette de quesadillas avec de l'avocat et du pico de gallo.",
+      "ingredients": [
+        "8 tortillas de maïs",
+        "2 avocats mûrs, coupés en 24 tranches",
+        "200 g de fromage râpé (cheddar, mozzarella ou autre fromage fondant)",
+        "Sel et poivre",
+        "Huile dʼolive, pour la cuisson"
+      ],
+      "etapesPreparation": [
+        "Dans un bol, préparez le pico de gallo en mélangeant les dés de tomate, lʼoignon rouge en brunoise, la coriandre fraîche hachée, le jalapeño éminé, le jus de citron vert, le sel et le poivre. Réservez.",
+        "Placez une tortilla de maïs sur une surface de travail propre. Saupoudrez une partie du fromage râpé sur la moitié de la tortilla. Ajoutez 3 tranches dʼavocat sur le fromage. Repliez délicatement la tortilla en demi-cercle pour couvrir la garniture.",
+        "Répétez lʼopération avec les tortillas restantes et la garniture pour former les quesadillas.",
+        "Dans une poêle antiadhésive, chauffez un filet dʼhuile dʼolive à feu moyen. Placez 1 ou 2 quesadillas dans la poêle (en fonction de la taille de la poêle) et faites-les cuire pendant environ 2 à 3 minutes de chaque côté jusquʼà ce quʼelles soient dorées et que le fromage soit fondu. Répétez lʼopération avec les autres quesadillas.",
+        "Retirez les quesadillas de la poêle et coupez-les en triangles. Servez avec le pico de gallo, de la coriande et un trait de salsa au choix."
+      ]
+    },
+    {
+      "nomRecette": "CAMPECHANO",
+      "typeRecette":"TACOS",
+      "niveauPiquant":"",
+      "nombrePersonnes": "4 personnes",
+      "tempsPreparation": "1 h",
+      "descriptionRecrette": "Recette de tacos campechano avec bifteck de boeuf et longaniza.",
+      "ingredients": [
+        "8 tortillas de maïs",
+        "250 g de bifteck de boeuf",
+        "250 g de longaniza (saucisse mexicaine, à remplacer par du chorizo frais si introuvable), coupée en tranches",
+        "1 oignon moyen",
+        "1 poivron vert",
+        "2 gousses dʼail",
+        "Le jus de 2 citrons verts",
+        "1 cuillerée à café de paprika",
+        "1 cuillerée à café de cumin en poudre",
+        "Sel et poivre"
+      ],
+      "etapesPreparation": [
+        "Dans une poêle chaude, faites cuire le bifteck à feu fort en lʼayant préalablement assaisonné avec du sel, du poivre noir, du paprika et du cumin. Retournez une fois la première face bien saisie. Retirez la viande de la poêle une fois cuite (saignante) et mettez-la de côté.",
+        "Dans la même poêle, faites cuire les tranches de longaniza à feu fort jusquʼà ce quʼelles soient bien dorées. Retirez la longaniza de la poêle et mettez-la de côté avec la viande de boeuf que lʼon pourra maintenant émincer finement.",
+        "Dans la même poêle, faites revenir lʼoignon préalablement coupé en brunoise, le poivron et lʼail émincés. Faites cuire pendant quelques minutes jusquʼà ce que les légumes soient tendres et légèrement caramélisés.",
+        "Ajoutez les tranches de bifteck de boeuf et de longaniza dans la poêle avec les légumes et baissez le feu.",
+        "Arrosez le mélange de viande et de légumes avec le jus de citron vert frais. Assaisonnez avec du sel et du poivre, et laissez mijoter encore quelques minutes.",
+        "Pendant ce temps, faites chauffer les tortillas de maïs dans une autre poêle.",
+        "Pour monter les tacos campechanos, disposez une portion de viande et de légumes sur chaque tortilla chaude. Garnissez avec de la coriandre fraîche et ajoutez de la salsa et un peu de jus de citron vert."
+      ]
+    },
+    {
+      "nomRecette": "GORDITAS",
+      "typeRecette":"TACOS",
+      "niveauPiquant":"",
+      "nombrePersonnes": "4 personnes",
+      "tempsPreparation": "1 h",
+      "descriptionRecrette": "Recette de gorditas farcies de porc mijoté, de légumes et d'assaisonnements.",
+      "ingredients": [
+        "Pour la pâte",
+        "320 g de farine de maïs",
+        "60 ml de graisse végétale, fondue",
+        "5 g de sel",
+        "Pour la garniture au porc",
+        "500 g dʼépaule de porc, coupée en petits morceaux",
+        "1 oignon moyen",
+        "2 gousses dʼail",
+        "1 cuillerée à café de poudre de chili",
+        "1 cuillerée à café de cumin en poudre",
+        "Sel et poivre",
+        "Huile dʼolive",
+        "Pour servir",
+        "1 laitue iceberg",
+        "2 tomates",
+        "1 oignon",
+        "Salsa au choix",
+        "Crème fraîche",
+        "¼ de botte de coriandre fraîche"
+      ],
+      "etapesPreparation": [
+        "Dans un grand bol, mélangez la farine de maïs et le sel. Ajoutez la graisse végétale fondue et mélangez bien.",
+        "Versez 240 ml dʼeau tiède progressivement dans le mélange de farine tout en pétrissant la pâte avec vos mains. Continuez à ajouter de lʼeau jusquʼà ce que la pâte soit souple et se tienne bien.",
+        "Divisez la pâte en 8 portions égales et formez des boules avec chaque portion.",
+        "Dans une poêle, faites chauffer un peu dʼhuile dʼolive. Ajoutez lʼoignon et lʼail hachés, et faites-les revenir jusquʼà ce quʼils soient translucides. Ajoutez les morceaux de porc dans la poêle et faites-les dorer de tous les côtés.",
+        "Ajoutez la poudre de chili, le cumin, le sel et le poivre. Mélangez bien pour enrober le porc. Réduisez le feu et laissez mijoter pendant environ 30 à 40 minutes jusquʼà ce que la viande soit tendre.",
+        "Pendant ce temps, aplatissez les boules de pâte pour former des galettes dʼenviron 10 cm de diamètre et 1 cm dʼépaisseur. Préchauffez une autre poêle ou une plaque de cuisson à feu moyen.",
+        "Placez les galettes sur la poêle préchauffée et faites-les cuire pendant environ 3 à 4 minutes de chaque côté jusquʼà ce quʼelles soient légèrement dorées et un peu gonflées. Retirez-les de la poêle et réservez.",
+        "Laissez les gorditas refroidir légèrement, puis coupez-les horizontalement à mi-chemin pour créer une poche.",
+        "Remplissez chaque gordita avec une portion de porc mijoté. Ajoutez la laitue émincée, les tomates et les oignons coupés en petits dés, la crème, la coriandre et la salsa."
+      ]
+    },
+    {
+      "nomRecette": "ESTILO AMERICANO",
+      "typeRecette":"TACOS",
+      "niveauPiquant":"peu",
+      "nombrePersonnes": "4 personnes",
+      "tempsPreparation": "40 min",
+      "descriptionRecrette": "Recette de tacos au style américain, garnis de viande de bœuf hachée, de légumes, de fromage et d'assaisonnements.",
+      "ingredients": [
+        "8 tortillas de maïs ou de blé",
+        "500 g de viande de bœuf hachée",
+        "1 oignon moyen (moitié pour la cuisson de la viande, moitié pour le dressage)",
+        "2 gousses dʼail",
+        "1 poivron vert",
+        "1 poivron rouge",
+        "2 cuillerées à soupe dʼhuile dʼolive",
+        "1 cuillerée à café de paprika",
+        "1 cuillerée à café de cumin en poudre",
+        "Sel et poivre",
+        "Pour servir",
+        "Cheddar râpé",
+        "1 tomate",
+        "Salsa au choix",
+        "Crème fraîche",
+        "¼ de botte de coriandre fraîche"
+      ],
+      "etapesPreparation": [
+        "Dans une poêle, faites chauffer lʼhuile dʼolive à feu moyen. Ajoutez lʼoignon, lʼail, et les poivrons préalablement coupés en brunoise. Faites revenir pendant quelques minutes jusquʼà ce que les légumes soient tendres.",
+        "Ajoutez la viande de bœuf hachée dans la poêle avec les légumes. Faites cuire la viande jusquʼà ce quʼelle soit bien colorée, en remuant avec une cuillère en bois pour bien la séparer en petits morceaux.",
+        "Assaisonnez la viande avec du sel, du poivre, du paprika et du cumin.",
+        "Mettez dans une nouvelle poêle un fond dʼhuile de friture et plongez dans le bain dʼhuile vos tortillas quelques secondes. Une fois que des petites cloques se forment sur chaque face, sortez les tortillas et mettez-les à sécher sur un rouleau à pâtisserie en bois. En refroidissant, les tortillas vont former une « coque rigide » à garnir.",
+        "Disposez, dans lʼordre, la viande, lʼoignon, les dés de tomate, le cheddar, la crème fraîche et la salsa. Ajoutez un peu de coriandre pour la fraîcheur et bon appʼ."
+      ]
+    },
+    {
+      "nomRecette": "BAJA DE CAMARoN",
+      "typeRecette":"TACOS",
+      "niveauPiquant":"peu",
+      "nombrePersonnes": "4 personnes",
+      "tempsPreparation": "1 h",
+      "descriptionRecrette": "Recette de tacos aux crevettes croustillantes, préparées avec une pâte à tempura et garnies de chou, de mayo, de salsa verde et de salsa.",
+      "ingredients": [
+        "16 crevettes de taille moyenne, décortiquées et déveinées",
+        "100 g de farine de maïs",
+        "60 g de farine de blé",
+        "5 g de levure chimique",
+        "3 g dʼail en poudre",
+        "120 ml dʼeau gazeuse froide",
+        "Huile de friture",
+        "8 tortillas de maïs",
+        "Sel et poivre",
+        "Pour servir",
+        "100 g de chou blanc",
+        "¼ de botte de coriandre fraîche",
+        "60 ml de mayonnaise (mayo chipotle encore mieux)",
+        "160 ml de salsa verde",
+        "Salsa au choix",
+        "Quartiers de citron vert"
+      ],
+      "etapesPreparation": [
+        "Dans un bol, mélangez les farines, la levure, le sel, lʼail en poudre et le poivre. Ajoutez lʼeau gazeuse froide au fur et à mesure, et mélangez doucement jusquʼà obtenir une pâte lisse et épaisse.",
+        "Dans une casserole, faites chauffer lʼhuile de friture à environ 180 °C.",
+        "Enrobez chaque crevette dans la tempura, plongez les crevettes dans lʼhuile bouillante et faites-les frire pendant 3 bonnes minutes jusquʼà ce quʼelles soient dorées et croustillantes. Retirez-les et égouttez-les sur du papier absorbant.",
+        "Pendant ce temps, faites chauffer les tortillas de maïs dans une poêle.",
+        "Pour chaque tortilla, déposez 1 cuillerée à soupe de mayo, 2 crevettes, 1 pincée de chou blanc cru émincé finement, 1 cuillerée de salsa verde, 1 trait de salsa, et servez avec des quartiers de citron vert."
+      ]
+    }, 
+    {
+      "nomRecette": "VERDES",
+      "typeRecette":"ENCHILADAS",
+      "niveauPiquant":"",
+      "nombrePersonnes": "4 personnes",
+      "tempsPreparation": "1 h",
+      "descriptionRecrette": "Recette d'enchiladas au poulet préparées avec de la salsa verde, de la crème fraîche et du fromage râpé.",
+      "ingredients": [
+        "12 tortillas de maïs jaune",
+        "500 g de poulet, cuit et effiloché",
+        "125 ml de salsa verde",
+        "250 ml de crème fraîche",
+        "150 g de fromage râpé (emmental ou cheddar)",
+        "1 petit oignon rouge",
+        "½ botte de coriandre fraîche",
+        "Huile de cuisson",
+        "Sel et poivre"
+      ],
+      "etapesPreparation": [
+        "Préchauffez le four à 180 °C.",
+        "Dans un bol, mélangez le poulet effiloché avec 125 ml de salsa verde, la moitié de la crème, la moitié du fromage râpé, lʼoignon rouge haché et la moitié de la coriandre ciselée. Assaisonnez avec du sel et du poivre selon votre goût.",
+        "Dans une poêle, chauffez un peu dʼhuile à feu moyen-vif. Faites chauffer chaque tortilla de maïs de chaque côté jusquʼà ce quʼelle soit légèrement dorée. Placez les tortillas sur une assiette.",
+        "Répartissez le mélange de poulet sur chaque tortilla et enroulez-la pour former une enchilada. Placez les enchiladas dans un plat allant au four.",
+        "Versez le reste de salsa verde sur les enchiladas et saupoudrez-les du reste de fromage râpé.",
+        "Enfournez les enchiladas et faites-les cuire pendant environ 15 à 20 minutes ou jusquʼà ce que le fromage soit fondu et que les enchiladas soient bien chaudes.",
+        "Garnissez les enchiladas du reste de crème et le reste de coriandre fraîche hachée avant de servir."
+      ]
+    },
+    {
+      "nomRecette": "COLIFLOR AL TAJIN",
+      "typeRecette":"TACOS",
+      "niveauPiquant":"",
+      "nombrePersonnes": "4 personnes",
+      "tempsPreparation": "50 min + 30 min de repos",
+      "descriptionRecrette": "Recette de tacos à la coliflor assaisonnée au tajin, garnis d'une marinade à l'ail, à l'oignon et à l'ananas.",
+      "ingredients": [
+        "1 chou-fleur",
+        "2 cuillerées à soupe dʼhuile végétale",
+        "1 cuillerée à soupe de paprika fumé",
+        "3 cuillerées à soupe dʼépice tajin",
+        "Sel et poivre",
+        "Pour la marinade",
+        "1 oignon blanc",
+        "½ ananas frais",
+        "2 gousses dʼail",
+        "60 ml de vinaigre blanc",
+        "60 ml de jus dʼorange frais",
+        "Pour servir",
+        "12 tortillas de maïs",
+        "1 botte de coriandre fraîche",
+        "½ oignon rouge"
+      ],
+      "etapesPreparation": [
+        "Préchauffez le four à 220 °C.",
+        "Retirez les feuilles extérieures du chou-fleur, puis coupez la base pour que la tête reste stable. À lʼaide dʼun couteau bien aiguisé, coupez le chou-fleur en tranches de 1 cm dʼépaisseur. Disposez-les sur une plaque à pâtisserie et arrosez dʼhuile végétale, de paprika fumé et de tajin. Mélangez bien pour enrober toutes les tranches de chou-fleur. Salez et poivrez selon votre goût. Faites cuire au four pendant 25 minutes ou jusquʼà ce que le chou-fleur soit doré et croustillant.",
+        "Pendant la cuisson du chou-fleur, préparez la marinade. Épluchez et hachez finement lʼail et lʼoignon. Coupez lʼananas en petits cubes. Dans un grand bol, mélangez le vinaigre blanc, le jus dʼorange, lʼail, lʼoignon, lʼananas et 1 pincée de sel.",
+        "Une fois que le chou-fleur est prêt, retirez-le du four et placez-le dans le bol de marinade. Mélangez pour enrober toutes les tranches de chou-fleur dans la marinade. Couvrez le bol avec du papier d'aluminium et laissez mariner pendant au moins 30 minutes.",
+        "Faites chauffer une poêle à feu moyen-vif. Retirez les tranches de chou-fleur de la marinade et faites-les griller dans la poêle pendant environ 3 minutes de chaque côté ou jusquʼà ce quʼelles soient dorées et croustillantes.",
+        "Servez les tranches de chou-fleur grillées dans des tortillas de maïs chaudes, garnies de coriandre fraîche, dʼoignon émincé, dʼavocat et de votre sauce préférée."
+      ]
+    },
+    {
+      "nomRecette": "carne y QUESO FUNDIDO",
+      "typeRecette":"TACOS",
+      "niveauPiquant":"",
+      "nombrePersonnes": "4 personnes",
+      "tempsPreparation": "40 min",
+      "ingredients": [
+        "400 g de viande de bœuf hachée",
+        "150 g dʼoignons",
+        "2 gousses dʼail",
+        "200 g de tomates",
+        "10 g de poudre de chili",
+        "5 g de cumin en poudre",
+        "5 g dʼorigan séché",
+        "5 g de paprika",
+        "Sel et poivre",
+        "200 g de cheddar râpé (ou autre fromage fondant)",
+        "8 tortillas de maïs",
+        "½ botte de coriandre fraîche",
+        "Quartiers de citron vert"
+      ],
+      "etapesPreparation": [
+        "Dans une poêle, faites cuire la viande de boeuf hachée à feu moyen-vif jusquʼà ce quʼelle soit bien dorée. Ajoutez lʼoignon et lʼail émincés, et faites cuire pendant quelques minutes supplémentaires jusquʼà ce que lʼoignon soit translucide.",
+        "Ajoutez les tomates hachées, la poudre de chili, le cumin, lʼorigan séché et le paprika dans la poêle avec la viande. Assaisonnez avec du sel et du poivre. Mélangez bien et laissez mijoter pendant environ 10 minutes.",
+        "Pendant ce temps, dans une autre poêle, faites fondre le fromage à feu doux. Remuez constamment jusquʼà ce quʼil soit complètement fondu et lisse.",
+        "Réchauffez les tortillas de maïs dans une poêle.",
+        "Pour chaque tortilla, déposez un peu de bœuf, quelques dés d'oignon rouge et de tomate, 1 cuillerée de fromage fondu, un peu de coriandre, un peu de jus de citron vert."
+      ]
+    },
+    {
+      "nomRecette": "COSTRAS DE HONGOS",
+      "typeRecette":"QUESADILLAS ",
+      "niveauPiquant":"peu",
+      "nombrePersonnes": "4 personnes",
+      "tempsPreparation": "35 min",
+      "ingredients": [
+        "400 g de champignons de Paris",
+        "50 g de beurre",
+        "30 ml dʼhuile dʼolive",
+        "4 gousses dʼail",
+        "1 botte de persil frais",
+        "200 g de mozzarella de cuisson (ou autre fromage fondant)",
+        "8 tortillas de maïs",
+        "120 g de mayo citron vert",
+        "Sel et poivre"
+      ],
+      "pour_servir": [
+        "Quelques lamelles de champignon cru",
+        "Salsa macha"
+      ],
+      "etapesPreparation": [
+        "Dans une poêle, faites fondre le beurre dans lʼhuile dʼolive à feu vif. Ajoutez les champignons tranchés et faites-les sauter pendant environ 5 minutes jusquʼà ce quʼils soient bien colorés et pas encore réduits.",
+        "Ajoutez lʼail émincé, puis 2 minutes plus tard, le persil haché (gardez un peu de persil pour le montage) et mélangez bien. Assaisonnez avec du sel et du poivre et réservez.",
+        "Dans une autre poêle à feu moyen-vif, disposez 1 grosse pincée de fromage et recouvrez dʼune tortilla. Laissez le fromage fondre et gratiner, et retournez pour laisser cuire 10 secondes lʼautre face. Sortez du feu et passez au dressage.",
+        "Pour chaque tortilla, déposez quelques tranches de champignons de Paris cuits, un peu de mayo citron vert coriandre, des lamelles de champignons crus, du persil frais finement haché et un peu de salsa macha."
+      ]
+    },
+    {
+      "nomRecette": "TORTA DE AGUACATE jamón Y QUESO",
+      "typeRecette":"SANDWITCH",
+      "niveauPiquant":"peu",
+      "nombrePersonnes": "4 personnes",
+      "tempsPreparation": "30 min",
+      "ingredients": [
+        "4 petits pains ou bolillos",
+        "2 avocats mûrs",
+        "8 tranches de jambon",
+        "8 tranches de fromage (cheddar, mozzarella, etc.)",
+        "½ oignon rouge",
+        "½ tomate",
+        "120 g de mayo citron vert (mayonnaise classique dans laquelle vous ajoutez un jus de citron vert et de la coriandre hachée)",
+        "Le jus de ½ citron vert",
+        "Sel et poivre",
+        "Huile de cuisson"
+      ],
+      "etapesPreparation": [
+        "Coupez les petits pains à sandwich en deux horizontalement et retirez une partie de la mie pour faire de la place pour la garniture.",
+        "Dans un bol, écrasez les avocats avec une fourchette et mélangez-les avec le jus de citron vert, le sel et le poivre pour faire une purée dʼavocat.",
+        "Étalez la purée dʼavocat sur la partie inférieure de chaque pain.",
+        "Ajoutez 2 tranches de jambon et 2 tranches de fromage sur chaque pain, puis ajoutez quelques tranches dʼoignon rouge et de tomate.",
+        "Étalez de la mayonnaise sur la partie supérieure de chaque pain et refermez le sandwich.",
+        "Chauffez un peu dʼhuile dans une poêle à feu moyen. Faites cuire les tortas pendant environ 3 à 4 minutes de chaque côté jusquʼà ce que le fromage ait fondu et que le pain soit doré. Servez chaud."
+      ]
+    },
+    {
+      "nomRecette": "FRIJOLES y QUESO FRESCO",
+      "niveauPiquant":"TOSTADAS ",
+      "nombrePersonnes": "4 personnes",
+      "tempsPreparation": "45 min",
+      "ingredients": [
+        "8 tortillas de maïs",
+        "400 g de frijoles refritos (voir page 48)",
+        "200 g de queso fresco, émietté (au pire, on part sur de la feta)",
+        "1 avocat",
+        "Salsa macha (voir p. 197)",
+        "Huile dʼolive, pour la cuisson"
+      ],
+      "etapesPreparation": [
+        "Préchauffez le four à 180 °C.",
+        "Disposez les tortillas de maïs sur une plaque de cuisson et badigeonnez-les légèrement dʼhuile dʼolive des 2 côtés. Placez-les au four et faites-les cuire pendant environ 10 minutes ou jusquʼà ce quʼelles soient croustillantes et dorées. Retirez-les du four et laissez-les refroidir.",
+        "Dans un bol, mélangez les dés de tomate, les dés dʼoignon rouge, la coriandre fraîche émincée, le jus de citron vert, le sel et le poivre pour préparer le pico de gallo. Réservez.",
+        "Dans une poêle, réchauffez les frijoles refritos à feu moyen jusquʼà ce quʼils soient chauds.",
+        "Pour chaque tostada, disposez 1 cuillerée à soupe de frijoles refritos, quelques tranches dʼavocat, du queso fresco, un peu de pico de gallo et 1 trait de salsa macha."
+      ]
+    },
+    {
+      "nomRecette": "QUESADILLAS ENCACAHUATADAS VEGETARIANAS",
+      "typeRecette":"",
+      "niveauPiquant":"",
+      "nombrePersonnes": "4 personnes",
+      "tempsPreparation": "1 h 15 min",
+      "ingredients": [
+        "12 tortillas de maïs bleu",
+        "2 courgettes",
+        "1 poivron rouge",
+        "1 oignon rouge",
+        "3 gousses dʼail",
+        "200 g de fromage râpé",
+        "120 g de cacahuètes grillées et salées, grossièrement hachées",
+        "240 ml de bouillon de légumes",
+        "240 ml de purée de tomates",
+        "1 cuillerée à soupe de cumin en poudre",
+        "1 cuillerée à soupe de paprika fumé",
+        "1 cuillerée à soupe dʼhuile dʼolive",
+        "Sel et poivre"
+      ],
+      "etapesPreparation": [
+        "Préparez les légumes : épluchez les courgettes et coupez-les en brunoise, émincez l'oignon et les gousses d'ail, coupez le poivron en petits dés.",
+        "Dans une poêle à feu moyen, chauffez lʼhuile dʼolive. Ajoutez lʼoignon, les courgettes et le poivron rouge, et faites sauter pendant 5 minutes ou jusquʼà ce que les légumes soient tendres. Ajoutez lʼail, le cumin et le paprika fumé et cuire pendant 1 minute supplémentaire.",
+        "Ajoutez le bouillon de légumes, la purée de tomates et les cacahuètes dans la poêle. Salez et poivrez selon votre goût. Réduisez le feu et laissez mijoter pendant environ 10 minutes ou jusquʼà ce que la sauce ait épaissi. Retirez du feu et réservez.",
+        "Pour assembler les encacahuatadas, prenez 1 tortilla de maïs bleu et ajoutez 1 cuillerée à soupe du mélange de légumes au centre. Ajoutez 1 cuillerée à soupe de fromage râpé sur le dessus du mélange de légumes. Refermez la tortilla et répétez avec les autres tortillas.",
+        "Dans une grande poêle à feu moyen-vif, chauffez un peu dʼhuile dʼolive. Ajoutez les tortillas farcies et faites-les cuire 2 à 3 minutes de chaque côté.",
+        "Servez les encacahuatadas chaudes avec la sauce aux cacahuètes et les légumes mijotés sur le dessus. Garnissez de cacahuètes hachées supplémentaires et de coriandre fraîche."
+      ]
+    },{
+      "nomRecette": "COCHINITA PIBIL",
+      "typeRecette":"TORTILLAS ",
+      "niveauPiquant":"peu",
+      "nombrePersonnes": "4 personnes",
+      "tempsPreparation": "4 h + 1 nuit de marinade",
+      "ingredients": [
+        "2 kg dʼépaule de porc, désossée et coupée en cubes",
+        "Le jus d'1 orange",
+        "Le jus de 3 citrons verts",
+        "2 oignons rouges",
+        "4 gousses dʼail",
+        "2 cuillerées à soupe dʼachiote en poudre",
+        "1 cuillerée à soupe dʼorigan séché",
+        "1 cuillerée à soupe de cumin en poudre",
+        "125 ml de vinaigre blanc",
+        "250 ml de bouillon de poulet",
+        "250 ml de jus dʼorange frais",
+        "6 feuilles de bananier",
+        "1 cuillerée à soupe dʼhuile dʼolive",
+        "Sel et poivre"
+      ],
+      "etapesPreparation": [
+        "Dans un grand bol, mélangez le jus dʼorange pressé, le jus de citron vert, lʼachiote, lʼorigan, le cumin, le sel, le poivre et lʼhuile dʼolive pour former une pâte.",
+        "Ajoutez les cubes de porc dans le bol et mélangez bien pour que tous les morceaux soient bien enrobés de la pâte. Filmez le bol et laissez mariner pendant au moins 2 heures (idéalement une nuit entière) au réfrigérateur.",
+        "Préchauffez le four à 150 °C. Sortez le porc mariné du réfrigérateur et laissez-le revenir à température ambiante.",
+        "Dans une grande poêle, faites revenir les lamelles dʼoignon rouge et lʼail à feu moyen jusquʼà ce quʼils soient dorés et légèrement croustillants. Ajoutez le porc mariné dans la poêle et faites-le cuire à feu moyen jusquʼà ce quʼil soit doré de tous les côtés.",
+        "Ajoutez le vinaigre blanc, le bouillon de poulet et le jus dʼorange frais dans la poêle et remuez bien pour combiner tous les ingrédients. Transférez le tout dans un plat allant au four.",
+        "Enveloppez les cubes de porc mariné dans des feuilles de bananier pour former des paquets. Placez-les dans le plat allant au four, couvrez avec du papier d'aluminium et enfournez pendant environ 4 heures jusquʼà ce que le porc soit tendre et facile à effilocher.",
+        "Servez la cochinita pibil chaud, accompagné de tortillas de maïs, de guacamole, de salsa, de crème fraîche et de coriandre fraîche."
+      ]
+    },
+    {
+      "nomRecette": "BARBACOA",
+      "typeRecette":"TACOS ",
+      "niveauPiquant":"",
+      "nombrePersonnes": "4 personnes",
+      "tempsPreparation": "6 h",
+      "ingredients": [
+        "800 g de viande de bœuf (épaule, joue et poitrine)",
+        "4 gousses dʼail",
+        "1 oignon moyen",
+        "2 cuillerées à soupe de vinaigre de cidre",
+        "2 cuillerées à soupe de jus de citron vert",
+        "2 cuillerées à soupe dʼhuile dʼolive",
+        "2 cuillerées à soupe de poudre de chili",
+        "2 cuillerées à soupe de paprika",
+        "2 cuillerées à café de cumin en poudre",
+        "1 cuillerée à café dʼorigan séché",
+        "250 ml de bouillon de boeuf",
+        "4 feuilles de laurier",
+        "Sel et poivre"
+      ],
+      "etapesPreparation": [
+        "Préchauffez le four à 150 °C.",
+        "Dans un bol, mélangez lʼail haché, lʼoignon haché, le vinaigre de cidre, le jus de citron vert, lʼhuile dʼolive, la poudre de chili, le paprika, le cumin, lʼorigan, le sel et le poivre pour former une pâte.",
+        "Placez la viande de bœuf dans un plat de cuisson allant au four. Frottez la pâte dʼassaisonnement sur toute la viande, en vous assurant de bien lʼenrober.",
+        "Versez le bouillon de boeuf dans le plat de cuisson. Ajoutez les feuilles de laurier.",
+        "Couvrez le plat de cuisson hermétiquement avec du papier dʼaluminium. Placez-le au four préchauffé et faites cuire pendant environ 4 à 5 heures jusquʼà ce que la viande soit tendre et se défasse facilement.",
+        "Retirez le plat du four et laissez reposer la viande pendant quelques minutes.",
+        "Effilochez la viande de boeuf avec 2 fourchettes.",
+        "Servez la barbacoa chaude dans des tortillas de maïs préalablement réchauffées à la poêle avec de la coriandre fraîche, des oignons en brunoise, et une ou plusieurs salsas."
+      ]
+    },
+    {
+      "nomRecette": "BIRRIA",
+      "typeRecette":"TACOS ",
+      "niveauPiquant":"peu",
+      "nombrePersonnes": "4 personnes",
+      "tempsPreparation": "4 h",
+      "ingredients": [
+        "800 g de viande de jarret de boeuf",
+        "200 g dʼoignons",
+        "4 gousses dʼail",
+        "50 g de piment guajillo",
+        "25 g de piment ancho",
+        "100 g de pulpe de tomate",
+        "1 cuillerée à soupe dʼorigan séché",
+        "1 cuillerée à café de cumin en poudre",
+        "1 cuillerée à café de coriandre en poudre",
+        "½ cuillerée à café de cannelle en poudre",
+        "¼ de cuillerée à café de clou de girofle en poudre",
+        "1 litre de bouillon de boeuf",
+        "1 cuillerée à soupe dʼhuile végétale",
+        "Sel et poivre"
+      ],
+      "etapesPreparation": [
+        "Dans une poêle à sec, faites griller les piments guajillo et ancho préalablement épépinés à feu moyen pendant quelques secondes de chaque côté. Retirez-les de la poêle et laissez-les refroidir. Une fois refroidis, retirez les queues et les graines, puis réhydratez-les dans de lʼeau chaude pendant environ 10 minutes. Égouttez-les et réservez.",
+        "Dans une grande casserole, chauffez lʼhuile végétale à feu moyen. Ajoutez les oignons et lʼail hachés, et faites-les revenir jusquʼà ce quʼils soient tendres et légèrement dorés.",
+        "Ajoutez la pulpe de tomate et les piments réhydratés dans la casserole. Faites cuire pendant quelques minutes en remuant constamment.",
+        "Ajoutez la viande de boeuf coupée en morceaux dans la casserole. Assaisonnez avec lʼorigan, le cumin, la coriandre, la cannelle, le clou de girofle, le sel et le poivre. Mélangez.",
+        "Versez le bouillon de boeuf dans la casserole. Portez à ébullition, puis réduisez le feu, couvrez et laissez mijoter pendant environ 2 à 3 heures jusquʼà ce que la viande soit tendre et se défasse facilement.",
+        "Retirez la viande de la casserole et effilochez-la à lʼaide de 2 fourchettes. Remettez la viande effilochée dans la casserole avec le bouillon et faites chauffer pendant encore quelques minutes pour bien mélanger les saveurs.",
+        "Servez la birria dans des tortillas préalablement chauffées à la poêle et garnissez-les avec des oignons hachés, de la coriandre fraîche et de la salsa. Ajoutez du jus de birria dans des bols pour tremper avant chaque bouchée."
+      ]
+    },
+    {
+      "nomRecette": "TINGA DE POLLO",
+      "typeRecette":"TACOS ",
+      "niveauPiquant":"peu",
+      "nombrePersonnes": "4 personnes",
+      "tempsPreparation": "2 h",
+      "ingredients": [
+        "500 g de hauts de cuisse de poulet, désossés",
+        "2 oignons jaunes",
+        "2 oignons rouges",
+        "2 branches de céleri",
+        "3 gousses dʼail",
+        "2 tomates",
+        "3 piments de árbol",
+        "3 piments morita",
+        "50 ml de vinaigre de cidre",
+        "50 ml dʼeau",
+        "1 cuillerée à café dʼorigan séché",
+        "Huile neutre pour la cuisson",
+        "Sel et poivre"
+      ],
+      "etapesPreparation": [
+        "Dans une poêle, mettez un fond dʼhuile neutre et faites saisir les hauts de cuisse côté peau en assaisonnant de sel, de poivre et dʼorigan. Une fois le poulet marqué, réservez-le dans une casserole contenant 1 oignon cru coupé en quatre, le céleri branche et couvrez dʼeau. Portez le tout à ébullition et laissez cuire 15 minutes. Une fois le poulet cuit, le sortir et lʼeffilocher à lʼaide de 2 fourchettes.",
+        "Faites bouillir dans une casserole le vinaigre de cidre et lʼeau et versez-les ensuite sur les oignons rouges émincés disposés dans un récipient. Laissez reposer au moins 15 minutes.",
+        "Dans une poêle avec un fond dʼhuile dʼolive, ajoutez lʼoignon restant émincé et faites-le cuire à feu moyen jusquʼà ce quʼil devienne translucide. Ajoutez lʼail.",
+        "Sur une flamme vive, brûlez les tomates jusquʼà ce quʼelles noircissent (au BBQ, cʼest le top, sinon à la poêle ou au gril à feu vif), brûlez les piments quelques secondes pour quʼils gonflent et équeutez-les.",
+        "Dans un blender, versez les tomates brûlées, les piments et mixez pour obtenir une sauce bien rouge. Ajoutez la tombée dʼoignons et le poulet effiloché.",
+        "Réchauffez les tortillas à la poêle et passez au dressage.",
+        "Sur chaque tortilla, déposez du poulet effiloché en sauce, quelques pickles dʼoignons rouges, une pincée de coriandre fraîche et un peu de salsa de votre choix."
+      ]
+    },
+    {
+      "nomRecette": "TACOS HUEVOS RANCHEROS",
+      "typeRecette":"",
+      "niveauPiquant":"",
+      "nombrePersonnes": "4 personnes",
+      "tempsPreparation": "45 min",
+      "ingredients": [
+        "8 tortillas de maïs",
+        "8 oeufs",
+        "2 cuillerées à soupe dʼhuile dʼolive",
+        "1 oignon moyen",
+        "1 poivron rouge",
+        "2 gousses dʼail",
+        "1 boîte de tomates pelées",
+        "½ cuillerée à café de cumin en poudre",
+        "½ cuillerée à café de paprika fumé",
+        "Sel et poivre"
+      ],
+      "etapesPreparation": [
+        "Préchauffez le four à 180 °C.",
+        "Placez les tortillas sur une plaque de cuisson et réchauffez-les au four pendant environ 5 minutes jusquʼà ce quʼelles soient légèrement croustillantes. Gardez-les au chaud.",
+        "Dans une grande poêle, chauffez lʼhuile dʼolive à feu moyen-vif. Ajoutez lʼoignon émincé et le poivron rouge en dés et faites-les cuire pendant environ 5 minutes jusquʼà ce quʼils soient tendres. Ajoutez lʼail haché et faites-le cuire pendant 1 minute de plus.",
+        "Ajoutez les tomates pelées en dés avec leur jus, le cumin, le paprika fumé, le sel et le poivre. Laissez mijoter pendant environ 10 minutes, en remuant de temps en temps, jusquʼà ce que la sauce épaississe.",
+        "Cassez les oeufs à par un dans une autre poêle en laissant un peu dʼespace entre eux. Couvrez la poêle et faites cuire les oeufs pendant environ 3 à 4 minutes jusquʼà ce que le blanc soit pris, mais le jaune encore coulant.",
+        "Pour servir, placez 2 tortillas sur chaque assiette. Déposez 1 oeuf sur chaque tortilla et nappez de sauce tomate. Garnissez de coriandre fraîche hachée.",
+        "Servez immédiatement et dégustez les huevos rancheros chauds."
+      ]
+    },
+    {
+      "nomRecette": "TORTA MILANESA",
+      "typeRecette":"SANDIWTCH",
+      "niveauPiquant":"",
+      "nombrePersonnes": "4 personnes",
+      "tempsPreparation": "1 h",
+      "ingredients": [
+        "4 pains à torta (environ 60 g chacun)",
+        "4 escalopes de veau (environ 150 g chacune)",
+        "100 g de farine",
+        "2 oeufs",
+        "150 g de tortillas de maïs, grillées au four",
+        "4 tranches de fromage à fondre",
+        "4 feuilles de laitue",
+        "2 tomates",
+        "2 avocats",
+        "1 oignon rouge",
+        "4 cuillerées à soupe de mayonnaise",
+        "4 cuillerées à soupe de moutarde",
+        "Le jus de 1 citron vert",
+        "Sel et poivre",
+        "Huile végétale, pour la friture"
+      ],
+      "etapesPreparation": [
+        "Préchauffez une grande poêle avec suffisamment dʼhuile végétale pour la friture à feu moyen.",
+        "Assaisonnez les escalopes de veau avec du sel et du poivre sur les 2 faces.",
+        "Mixez les tortillas grillées pour en faire une poudre.",
+        "Préparez 3 assiettes creuses. Dans la première, mettez la farine. Dans la deuxième, battez les oeufs. Dans la troisième, mettez la poudre de tortilla.",
+        "Passez chaque escalope de veau dans la farine, puis dans les oeufs battus et enfin dans la poudre de tortilla qui fera office de panure, en veillant à bien les enrober.",
+        "Faites frire les escalopes de veau panées dans lʼhuile chaude jusquʼà ce quʼelles soient dorées et cuites à coeur. Retirez-les de la poêle et égouttez-les sur du papier absorbant.",
+        "Coupez les pains à torta en deux dans le sens de la longueur. Faites-les colorer dans la même poêle.",
+        "Sur la partie inférieure de chaque pain à torta, étalez 1 cuillerée à soupe de mayonnaise et 1 cuillerée à soupe de moutarde sur la partie supérieure.",
+        "Placez 1 escalope de veau frite sur chaque partie basse de pain à torta. Ajoutez 1 tranche de fromage sur le dessus de chaque escalope.",
+        "Garnissez les tortas de feuilles de laitue, de tranches de tomate, dʼavocat et dʼoignon rouge. Ajoutez du jus de citron vert.",
+        "Refermez les tortas avec la partie supérieure du pain à torta et croquez."
+      ]
+    },
+    {
+      "nomRecette": "CEVICHE DE LIEU JAUNE",
+      "typeRecette":"TOSTADAS ",
+      "niveauPiquant":"peu",
+      "nombrePersonnes": "4 personnes",
+      "tempsPreparation": "30 min + 30 min de repos",
+      "ingredients": [
+        "500 g de lieu jaune frais",
+        "Le jus de 1 citron vert",
+        "½ oignon rouge",
+        "½ botte de coriandre fraîche",
+        "1 piment jalapeño",
+        "Sel et poivre",
+        "Pour les tostadas:",
+        "12 tortillas de maïs jaune",
+        "1 avocat",
+        "Mayo chipotle (mayonnaise classique dans laquelle vous ajoutez un soupçon de chipotle haché)",
+        "12 belles crevettes",
+        "Quartiers de citron vert pour servir"
+      ],
+      "etapesPreparation": [
+        "Préchauffez le four à 180 °C.",
+        "Placez les tortillas de maïs sur une plaque de cuisson et enfournez-les pendant 5 à 7 minutes jusquʼà ce quʼelles soient croustillantes et dorées. Sortez les tortillas du four et laissez-les refroidir légèrement.",
+        "Dans un grand bol, mélangez le lieu jaune, le jus de citron vert, lʼoignon rouge émincés, la coriandre ciselée et le jalapeño coupé en dés. Ajoutez du sel et du poivre noir fraîchement moulu et mélangez bien. Couvrez le bol et placez-le au réfrigérateur pendant au moins 30 minutes pour que les saveurs se mélangent.",
+        "Pendant ce temps, préparez les tostadas. Étalez 1 cuillerée à soupe de mayo sur chaque tostada. Ajoutez quelques tranches dʼavocat.",
+        "Lorsque le ceviche est prêt, retirez-le du réfrigérateur et égouttez le liquide en trop. Répartissez le ceviche sur les tostadas.",
+        "Ajoutez les crevettes émincées sur les tostadas et servez avec des quartiers de citron vert."
+      ]
+    },
+    {
+      "nomRecette": "TORTA DE AGUACATE Y QUESO",
+      "typeRecette":"SANDWITCH",
+      "niveauPiquant":"fort",
+      "nombrePersonnes": "4 personnes",
+      "tempsPreparation": "30 min",
+      "ingredients": [
+        "4 petits pains à sandwich ou bolillos",
+        "2 avocats mûrs",
+        "8 tranches de cheddar",
+        "½ oignon rouge",
+        "½ tomate",
+        "125 ml de salsa roja",
+        "1 cuillerée à soupe de jus de citron vert",
+        "Sel et poivre",
+        "Huile de cuisson"
+      ],
+      "etapesPreparation": [
+        "Coupez les petits pains à sandwich en deux horizontalement et retirez une partie de la mie pour faire de la place pour la garniture.",
+        "Dans un bol, écrasez les avocats avec une fourchette et mélangez-les avec le jus de citron vert, le sel et le poivre pour faire une purée dʼavocat.",
+        "Étalez la purée dʼavocat sur la partie inférieure de chaque pain.",
+        "Ajoutez 2 tranches de fromage sur chaque pain, puis ajoutez quelques tranches dʼoignon rouge et de tomate.",
+        "Étalez de la salsa roja sur la partie supérieure de chaque pain et refermez le sandwich.",
+        "Chauffez un peu dʼhuile dans une poêle à feu moyen. Faites cuire les tortas pendant environ 3 à 4 minutes de chaque côté jusquʼà ce que le fromage soit fondu et le pain doré.",
+        "Servez les tortas végétariennes chaudes."
+      ]
+    },
+    {
+      "nomRecette": "TORTAS DE COCHINITA",
+      "typeRecette":"SANDWITCH",
+      "niveauPiquant":"peu",
+      "nombrePersonnes": "4 personnes",
+      "tempsPreparation": "2 h 30 + 4 h de marinade",
+      "ingredients": [
+        "400 g de viande de porc (épaule ou échine), coupée en morceaux",
+        "2 gousses dʼail",
+        "2 oranges amères",
+        "50 g de vinaigre blanc",
+        "1 cuillerée à soupe dʼorigan séché",
+        "1 cuillerée à soupe de cumin en poudre",
+        "1 cuillerée à soupe de paprika doux",
+        "Sel",
+        "4 petits pains à torta (environ 60 g chacun)",
+        "4 cuillerées à soupe de mayonnaise",
+        "4 feuilles de laitue",
+        "2 tomates",
+        "1 oignon rouge",
+        "1 avocat",
+        "Sauce piquante"
+      ],
+      "etapesPreparation": [
+        "Dans un grand bol, mélangez le jus des oranges amères, le vinaigre, lʼail, le sel, lʼorigan, le cumin et le paprika pour préparer la marinade.",
+        "Ajoutez les morceaux de porc dans la marinade et mélangez-les pour bien les enrober. Laissez mariner pendant au moins 4 heures, idéalement toute une nuit au réfrigérateur.",
+        "Préchauffez le four à 180 °C.",
+        "Placez le porc mariné dans un plat allant au four et couvrez-le de papier dʼaluminium. Faites cuire pendant environ 2 heures jusquʼà ce que la viande soit tendre et puisse facilement sʼeffilocher à la fourchette.",
+        "Retirez le porc du four et utilisez 2 fourchettes pour l'effilocher.",
+        "Coupez les petits pains à torta en deux dans le sens de la longueur. Faites-les légèrement griller dans une poêle avec un peu de matière grasse.",
+        "Sur la partie inférieure de chaque pain à torta, étalez 1 cuillerée à soupe de mayonnaise.",
+        "Garnissez les tortas de feuilles de laitue, de tranches de tomate, dʼoignon rouge et dʼavocat (si vous le souhaitez). Répartissez généreusement la viande de cochinita effilochée sur les garnitures. Ajoutez un trait de salsa habanero et piña.",
+        "Refermez les tortas avec la partie supérieure du pain."
+      ]
+    },
+    {
+      "nomRecette": "PAMBAZOS",
+      "typeRecette":"SANDWITCH",
+      "niveauPiquant":"peu",
+      "nombrePersonnes": "4 personnes",
+      "tempsPreparation": "1 h",
+      "ingredients": [
+        {
+          "nomRecette": "Pour la sauce",
+          "ingredients": [
+            "200 g de tomates",
+            "50 g dʼoignon",
+            "1 gousse dʼail",
+            "2 cuillerées à soupe dʼhuile végétale",
+            "1 cuillerée à café de paprika doux",
+            "1 cuillerée à café de cumin en poudre",
+            "1 piment ancho sec en poudre",
+            "Sel et poivre"
+          ]
+        },
+        {
+          "nomRecette": "Pour les pambazos",
+          "ingredients": [
+            "4 petits pains ronds (pambazos)",
+            "300 g de pommes de terre",
+            "200 g de chorizo mexicain (ou autre saucisse épicée)",
+            "1 oignon",
+            "240 ml de lait",
+            "100 g de fromage oaxaca ou grana, râpé",
+            "Huile végétale, pour la friture"
+          ]
+        }
+      ],
+      "etapesPreparation": [
+        "Préparez la sauce. Dans une casserole dʼeau bouillante, faites cuire les tomates, lʼoignon et lʼail pendant environ 10 minutes jusquʼà ce quʼils soient tendres. Égouttez-les.",
+        "Dans une poêle, faites chauffer lʼhuile végétale à feu moyen. Ajoutez les tomates, lʼoignon et lʼail cuits. Faites revenir pendant quelques minutes.",
+        "Ajoutez le paprika, le cumin, le piment en poudre, le sel et le poivre. Mélangez bien et laissez cuire pendant encore 5 minutes. Retirez du feu et laissez refroidir légèrement.",
+        "Versez le mélange dans un mixeur ou utilisez un mixeur plongeant pour le réduire en purée lisse. Réservez la sauce.",
+        "Pour préparer les pambazos, faites bouillir les pommes de terre dans de lʼeau salée jusquʼà ce quʼelles soient tendres. Égouttez-les, épluchez-les et écrasez-les grossièrement à la fourchette.",
+        "Dans une poêle, faites revenir le chorizo mexicain jusquʼà ce quʼil soit bien cuit. Ajoutez lʼoignon finement haché et faites revenir jusquʼà ce quʼil soit translucide. Ajoutez les pommes de terre écrasées et mélangez bien. Laissez refroidir légèrement.",
+        "Préchauffez une poêle à feu moyen avec un peu dʼhuile végétale. Coupez les petits pains en deux dans le sens de la longueur et faites-les frire légèrement jusquʼà ce quʼils soient dorés et croustillants.",
+        "Trempez chaque moitié de pain dans la sauce préparée, en vous assurant de bien l'imbiber.",
+        "Remplissez les pains avec le mélange de pommes de terre et de chorizo. Ajoutez le fromage râpé sur le dessus.",
+        "Dans une poêle, faites chauffer un peu dʼhuile végétale à feu moyen. Ajoutez les pambazos farcis et faites-les frire pendant quelques minutes de chaque côté jusquʼà ce que le fromage soit fondu et que les pains soient croustillants.",
+        "Retirez les pambazos de la poêle et égouttez-les sur du papier absorbant pour enlever lʼexcès dʼhuile.",
+        "Servez les pambazos chauds avec la laitue iceberg, la crème fraîche, le fromage frais émietté et la sauce piquante."
+      ]
+    }
+    
+  ]
+}

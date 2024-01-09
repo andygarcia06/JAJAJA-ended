@@ -1,0 +1,24 @@
+
+img{
+    max-height: 100vh;
+    margin: 0 auto;
+    display: block;
+}
+
+@page {
+    size: landscape;
+  }
+
+
+  @media print {
+    body {
+      transform: rotate(90deg);
+      transform-origin: left top;
+      width: 100vh;
+      height: 100vw;
+      overflow: hidden;
+      position: absolute;
+      top: 100%;
+      left: 0;
+    }
+  }

@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Chargement d'images au défilement</title>
+    <link rel="stylesheet" href="./recipes-image.css">
+</head>
+<body>
+    <div id="image-container">
+        <img id="image" src="" alt="Image">
+    </div>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            const imageContainer = document.getElementById("image-container");
+            const image = document.getElementById("image");
+        
+            let currentIndex = 0;
+            const jsonImages = [
+                {
+                    "source": "https://fronthand.fr/page-guacamole.jpg"
+                },
+                {
+                    "source": "https://fronthand.fr/page-al-pastor.jpg"
+                },
+                {
+                    "source": "https://fronthand.fr/page-birria.jpg"
+                },
+                {
+                    "source": "https://fronthand.fr/page-camaron.jpg"
+                },
+                {
+                    "source": "https://fronthand.fr/page-constra-de-hongos.jpg"
+                },
+                {
+                    "source": "https://fronthand.fr/page-elote.jpg"
+                },
+                {
+                    "source": "https://fronthand.fr/page-aguacate.jpg"
+                },
+                {
+                    "source": "https://fronthand.fr/page-tinga-de-pollo.jpg"
+                }
+            ];
+        
+            function loadNextImage() {
+                if (currentIndex < jsonImages.length - 1) {
+                    currentIndex++;
+                    image.src = jsonImages[currentIndex].source;
+                }
+            }
+        
+            function loadPreviousImage() {
+                if (currentIndex > 0) {
+                    currentIndex--;
+                    image.src = jsonImages[currentIndex].source;
+                }
+            }
+        
+            // Charger la première image au chargement de la page
+            image.src = jsonImages[currentIndex].source;
+        
+            // Écouter le défilement de la page
+            window.addEventListener("scroll", function() {
+                if (window.scrollY + window.innerHeight >= document.body.scrollHeight) {
+                    // Scrolling vers le bas
+                    loadNextImage();
+                } else if (window.scrollY === 0) {
+                    // Scrolling vers le haut
+                    loadPreviousImage();
+                }
+            });
+        });
+        
+    </script>
+</body>
+</html>

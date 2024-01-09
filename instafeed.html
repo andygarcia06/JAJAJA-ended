@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Images from JSON</title>
+	<link rel="stylesheet" href="./instafeed.css">
+</head>
+<body>
+<div id="image-container"></div>
+
+<div class="button-container">
+	<button><a href="https://www.instagram.com/taqueriajajaja/" target="_blank">Notre Instagram</a></button>
+</div>
+
+    <script>
+        var myHeaders = new Headers();
+        myHeaders.append("Content-Type", "application/json");
+        var requestOptions = {
+            method: "GET",
+            headers: myHeaders,
+            redirect: "follow",
+        };
+
+        fetch("https://v1.nocodeapi.com/andythefrenchdev/instagram/NJIvYEaTbLPNKcXv", requestOptions)
+            .then(response => response.json()) // Parse the response as JSON
+            .then(data => {
+                const imageContainer = document.getElementById("image-container");
+                data.data.forEach(post => {
+                    if (post.media_type === "IMAGE" || post.media_type === "CAROUSEL_ALBUM") {
+                        // Check if it's an image or a carousel
+                        const image = document.createElement("img");
+                        image.src = post.media_url;
+                        imageContainer.appendChild(image);
+                    } else if (post.media_type === "CAROUSEL_ALBUM") {
+                        // Handle carousel albums if needed
+                        post.children.data.forEach(child => {
+                            const image = document.createElement("img");
+                            image.src = child.media_url;
+                            imageContainer.appendChild(image);
+                        });
+                    }
+                });
+            })
+            .catch(error => console.log('error', error));
+    </script>
+</body>
+</html>

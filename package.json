@@ -1,0 +1,28 @@
+{
+  "name": "template-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andygarcia06/JAJAJA-Poolsuite-clone.git"
+  },
+  "author": "Andy GARCIA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andygarcia06/JAJAJA-Poolsuite-clone/issues"
+  },
+  "homepage": "https://github.com/andygarcia06/JAJAJA-Poolsuite-clone#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.0-alpha1",
+    "jquery": "^3.6.3",
+    "moment": "^2.29.4",
+    "moment-timezone": "^0.5.41"
+  },
+  "devDependencies": {
+    "pixel-borders": "^1.1.4"
+  }
+}

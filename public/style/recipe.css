@@ -1,0 +1,234 @@
+@font-face {
+  font-family: "JAJAJA";
+  src: url("../../public/fonts/JAJAJA.ttf"); }
+@font-face {
+  font-family: "Pragmatica";
+  src: url("../../public/fonts/Pragmatica-ExtraLight.ttf"); }
+@font-face {
+  font-family: "Helvetica Neue Normal";
+  src: url("../../public/fonts/HelveticaNeue/HelveticaNeueLTPro-Roman.otf"); }
+@font-face {
+  font-family: "Helvetica Neue Bolderx1";
+  src: url("../../public/fonts/HelveticaNeue/HelveticaNeueLTPro-Cn.otf"); }
+@font-face {
+  font-family: "Helvetica Neue Bolderx2";
+  src: url("../../public/fonts/HelveticaNeue/HelveticaNeueLTPro-BdCn.otf"); }
+@font-face {
+  font-family: "Helvetica Neue Bolderx3";
+  src: url("../../public/fonts/HelveticaNeue/HelveticaNeueLTPro-Bd.otf"); }
+body {
+  font-family: "Helvetica Neue Normal";
+  height: 90vh; }
+
+.recette-header {
+  display: flex;
+  width: 100%;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center; }
+
+h1 {
+  font-size: 600% !important; }
+
+.side-title {
+  position: absolute;
+  height: 100vh;
+  width: 10%; }
+  .side-title h2 {
+    transform: rotate(270deg);
+    position: relative;
+    top: 20vh;
+    font-size: 500%;
+    color: white;
+    -webkit-text-stroke: 1px black; }
+
+h1, h2 {
+  font-family: 'JAJAJA';
+  font-size: 150%;
+  -webkit-text-stroke: 0.1px white; }
+
+.recette-description {
+  font-family: "Helvetica Neue Bolderx3";
+  font-size: large; }
+
+#recette-container-col {
+  height: 100vh;
+  margin: 0 10%; }
+
+ol {
+  list-style: none !important; }
+
+.recettes-nav {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  z-index: 3000000;
+  background-color: rgba(0, 0, 0, 0);
+  height: 100vh;
+  top: 10px;
+  width: 10%;
+  justify-content: space-between; }
+  .recettes-nav i {
+    font-size: 300%; }
+  .recettes-nav a {
+    color: black;
+    text-decoration: none; }
+
+.recette-container-sides {
+  display: flex;
+  flex-direction: row;
+  font-size: 80%; }
+
+.recette-container-header {
+  position: relative;
+  left: 2rem; }
+
+.recette-container-header p {
+  line-height: 12px; }
+
+.recette-container-side p {
+  font-family: "Helvetica Neue Bolderx3";
+  font-size: 80%; }
+
+li {
+  list-style: none; }
+
+#recette-container-side-1 {
+  width: 40%;
+  text-align: left;
+  font-size: large;
+  position: relative;
+  right: 2rem; }
+
+#recette-container-side-2 {
+  width: 55%; }
+
+.feu-icons-container {
+  width: 50px;
+  height: 2vh;
+  padding: 5px;
+  padding-top: 6px !important;
+  border: 1.5px solid black;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  border-radius: 20px; }
+
+.step-item {
+  font-weight: bold;
+  /* Mettez en gras le texte */ }
+
+.recette-orange {
+  background-color: orange; }
+
+.recette-blanc {
+  background-color: white; }
+
+@media screen and (max-width: 480px) {
+  .recette-container {
+    position: absolute;
+    left: 0; }
+
+  i {
+    font-size: 150% !important; }
+
+  .side-title {
+    font-size: 50% !important;
+    left: 3rem;
+    z-index: 50000;
+    bottom: 16vh; }
+
+  .recette-container {
+    width: 100%;
+    margin: 0; }
+
+  .recette-header {
+    font-size: 40%;
+    display: flex;
+    flex-direction: column; }
+
+  .recette-description {
+    font-size: 60%; }
+
+  .recette-container-sides {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: auto; }
+
+  .recette-container-side {
+    width: 100% !important;
+    margin: 0;
+    left: 0; }
+    .recette-container-side .recette-container-ingredients {
+      font-size: 70% !important; }
+      .recette-container-side .recette-container-ingredients .bullet-item {
+        font-size: 40% !important; }
+      .recette-container-side .recette-container-ingredients .recette-container-header {
+        font-size: 50%;
+        left: -5rem !important; }
+      .recette-container-side .recette-container-ingredients i {
+        transform: scale(0.5); }
+      .recette-container-side .recette-container-ingredients .recette-description {
+        width: 100% !important;
+        text-align: center; }
+
+  .recette-container-header {
+    font-size: 70%; } }
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  .recette-container {
+    position: absolute;
+    left: 0; }
+
+  h1 {
+    font-size: 1000% !important; }
+
+  i {
+    font-size: 150% !important; }
+
+  .side-title {
+    font-size: 70% !important;
+    z-index: 50000;
+    bottom: 8vh; }
+
+  .recette-container {
+    width: 100%;
+    margin: 0; }
+
+  .recette-header {
+    font-size: 40%;
+    display: flex;
+    flex-direction: row; }
+
+  .recette-description {
+    font-size: 120%; }
+
+  .recette-container-sides {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: auto; }
+
+  .recette-container-side {
+    width: 100% !important;
+    margin: 0;
+    left: 0; }
+    .recette-container-side .recette-container-ingredients {
+      font-size: 120% !important; }
+      .recette-container-side .recette-container-ingredients .recette-container-header p {
+        font-size: 320% !important; }
+      .recette-container-side .recette-container-ingredients .recette-container-header p {
+        font-size: 300%; }
+      .recette-container-side .recette-container-ingredients i {
+        transform: scale(0.5); }
+      .recette-container-side .recette-container-ingredients .recette-description {
+        width: 100%;
+        text-align: center; }
+
+  .recette-container-header {
+    font-size: 100%; }
+
+  #recette-container-side-2 {
+    font-size: 150% !important; } }
+
+/*# sourceMappingURL=recipe.css.map */

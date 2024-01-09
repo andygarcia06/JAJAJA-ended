@@ -1,0 +1,49 @@
+
+  
+  /* Styles pour la page principale */
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #fafafa;
+  }
+  
+  .container{
+    margin: auto;
+  }
+
+  /* Styles pour chaque poste Instagram */
+  #instagram-feed {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  img{
+    flex: 0 0 calc(40%); /* 33.33% de largeur, moins l'espacement */
+    box-sizing: border-box;  
+    width: 800px;
+
+}
+
+.ig-row {
+  display: flex;
+  justify-content: space-between;
+}
+
+.ig-container {
+  width: 32%; /* Ajustez pour les marges */
+  margin: 1%; /* Ajoutez une marge si nécessaire */
+}
+
+  
+  
+  
+  
+  
+  /* Styles pour le pied de page */
+  .footer {
+    text-align: center;
+    margin-top: 20px;
+    color: #888;
+    font-size: 12px;
+  }
+  
+  

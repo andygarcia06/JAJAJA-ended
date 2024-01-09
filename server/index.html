@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Instagram Feed</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="profile-info">
+        <img id="profile-picture" src="" alt="Image de profil" style="width: 100px; height: 100px; border-radius: 50%;">
+        <p id="username"></p>
+    </div>
+    <div id="instagram-feed"></div>
+
+    <script>
+        const shortLivedToken = 'IGQWRQUnJmLVZAST1NWT2lQcUgweFY2UFY5TjRERlV3RnJYek5HUE1pUDZAuNUFkR3pVRlFJSkd0QWhxb2FoTUtvZAlZAfWlhUaF9vVlBTYnVzelhjdkZANUGZAaWE5mQzc1S2o4MUNtNFR1Nk5qbVFfQmJwU0tJeF9ON1EZD'; // Remplacez par votre long-lived token
+        const initialUrl = `https://graph.instagram.com/v12.0/me/media?fields=id,caption,media_type,media_url,thumbnail_url,permalink,timestamp&access_token=${shortLivedToken}`;
+        async function getInstagramData(url) {
+            try {
+                const response = await fetch(url);
+                const data = await response.json();
+        
+                if (data && data.data) {
+                    const feedContainer = document.getElementById('instagram-feed');
+                    let row = createRow();
+        
+                    data.data.forEach((item, index) => {
+                        if (index % 3 === 0 && index !== 0) {
+                            feedContainer.appendChild(row);
+                            row = createRow();
+                        }
+                        const postElement = createPostElement(item);
+                        row.appendChild(postElement);
+                    });
+        
+                    feedContainer.appendChild(row); // Ajouter les derniers éléments
+        
+                    // Vérifier la pagination et charger plus de données si nécessaire
+                    if (data.paging && data.paging.next) {
+                        getInstagramData(data.paging.next);
+                    }
+                }
+            } catch (error) {
+                console.error('Erreur lors de la récupération des données Instagram:', error);
+            }
+        }
+        
+        function createRow() {
+            const rowDiv = document.createElement('div');
+            rowDiv.className = 'ig-row';
+            return rowDiv;
+        }
+        
+        function createPostElement(item) {
+            const postDiv = document.createElement('div');
+            postDiv.className = 'ig-container';
+            postDiv.innerHTML = `
+                <a href="${item.permalink}" target="_blank">
+                    <img src="${item.media_url}" alt="Instagram Media" style="width: 100%;">
+                </a>`;
+            return postDiv;
+        }
+        
+        // URL initiale pour la première requête
+        getInstagramData(initialUrl);
+       
+        async function getProfileInfo() {
+            try {
+                // Faire une requête à la route backend qui gère la récupération des informations de profil
+                const response = await fetch('http://localhost:3000/getProfileInfo');
+                if (!response.ok) {
+                    throw new Error(`Erreur HTTP: ${response.status}`);
+                }
+        
+                const profileInfo = await response.json();
+                document.getElementById('profile-picture').src = profileInfo.profile_picture_url;
+                document.getElementById('username').textContent = profileInfo.username;
+            } catch (error) {
+                console.error('Erreur lors de la récupération des informations du profil:', error);
+            }
+        }
+        
+        getProfileInfo();
+        
+        
+        
+        
+    </script>
+</body>
+</html>

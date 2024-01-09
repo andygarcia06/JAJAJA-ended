@@ -1,0 +1,63 @@
+@font-face {
+    font-family: "JAJAJA";
+    src: url("../../public/fonts/JAJAJA.ttf"); }
+
+.tacman-intro-container{
+    background-color: black;
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
+img{
+width: 200%;
+    max-height: 80%;
+
+}
+
+button{
+    width: 40%;
+    font-size: 400%;
+    font-family: 'JAJAJA';
+    border-radius: 10px;
+    padding:2% 1%;
+    cursor:pointer;
+    transition: all 0.3s ease;
+    background-color: #e63329;
+    color: white;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+h1{
+    font-size: larger;
+    color: #e63329;
+    font-family: 'JAJAJA';
+    font-size: 580%;
+    margin-bottom: -1%;
+    -webkit-text-stroke:1px black;
+}
+
+p{
+    color: #e63329;
+    font-family: 'JAJAJA';
+
+}
+
+svg{
+    max-width: 80%;
+    margin-bottom: 10%;
+}
+
+button:hover{
+    color: #e63329;
+    background-color: white;
+}
